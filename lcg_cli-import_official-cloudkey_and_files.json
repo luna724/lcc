@@ -1,0 +1,9 @@
+{
+  "url": "https://raw.githubusercontent.com/luna724/lcc/main/lcg_officials/",
+  "availables": ["AIO", "part1", "part2", "part3", "part4"],
+  "AIO": "all_in_one.json",
+  "part1": "part1_v2.json",
+  "part2": "part2_v2.json",
+  "part3": "part3_v2.json",
+  "part4": "part4_v2.json"
+}
